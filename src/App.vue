@@ -41,6 +41,18 @@ h2 {
   margin-bottom: 32px;
   font-weight: normal;
 }
+h3 {
+  font-size: 32px;
+  line-height: 40px;
+  margin-bottom: 32px;
+  font-weight: normal;
+}
+h4 {
+  font-size: 24px;
+  line-height: 32px;
+  margin-bottom: 32px;
+  font-weight: normal;
+}
 p {
   font-size: 16px;
   line-height: 24px;

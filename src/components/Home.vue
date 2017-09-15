@@ -1,9 +1,9 @@
 <template>
 	<div>
 	  <div class="section">
-	  	<img src="../assets/logo.svg" class="logo" />
+	  	<div class="nav"><img src="../assets/logo.svg" class="logo" /></div>
 	    <h1>smalltalk</h1>
-	    <h2>conversational commerce as a service</h2>
+	    <h4>conversational commerce as a service</h4>
 	    <p><a href="mailto:harry@gosmalltalk.com">harry@gosmalltalk.com</a></p>
 	  </div>
 	  <div class="section">
@@ -29,9 +29,11 @@ export default {
 .alt-section {
 	background-color: #EEE;
 }
+.nav {
+	margin: 30px 0px 100px 0px;
+}
 .logo {
 	width: 50px;
 	height: 50px;
-	margin: 25px 25px;
 }
 </style>
