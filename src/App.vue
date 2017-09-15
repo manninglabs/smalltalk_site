@@ -14,14 +14,14 @@ export default {
 @font-face {
   font-family: 'Colfax-Regular';
   src: url('assets/Colfax-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
 }
 @font-face {
   font-family: 'Colfax-Medium';
   src: url('assets/Colfax-Medium.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+}
+@font-face {
+  font-family: 'Colfax-Bold';
+  src: url('assets/Colfax-Bold.ttf') format('truetype');
 }
 
 #app {
@@ -30,26 +30,46 @@ export default {
 
 h1 {
   font-family: 'Colfax-Medium', sans-serif;
-  font-size: 50px;
+  font-size: 72px;
+  line-height: 80px;
+  margin: 0px;
   font-weight: normal;
 }
 h2 {
-  font-family: 'Colfax-Regular', sans-serif;
-  font-size: 40px;
+  font-size: 48px;
+  line-height: 56px;
+  margin-bottom: 32px;
   font-weight: normal;
 }
-h3 {
-  font-size: 26px;
-  font-weight: normal;
+p {
+  font-size: 16px;
+  line-height: 24px;
+}
+a {
+  text-decoration: underline;
+  color: #000;
+}
+a:hover {
+  text-decoration: underline;
+  color: #999;
+}
+a:active {
+  text-decoration: underline;
+  color: #AAA;
+}
+small {
+  font-size: 12px;
+  line-height: 16px;
 }
 body {
-  margin: 0 0 40px;
+  margin: 0px;
+  margin-bottom: 40px; /* match .footer height */
 }
 .footer {
   position: absolute;
   text-align: center;
   bottom: 0;
-  height: 40px;
+  height: 40px; /* match body margin */
   background-color: #FFF;
   width: 100%;
 }
