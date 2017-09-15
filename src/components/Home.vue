@@ -12,7 +12,6 @@
 	  	<a href="https://drinkeasy.co" target="_blank"><img src="../assets/drinkeasy.png" class="brand-logo" /></a>
 	  	<a href="http://www.jashanmalgroup.com" target="_blank"><img src="../assets/jashanmal.png" class="brand-logo" /></a>
 	  </div>
-
 	  <div class="footer">
 	    <p><small>© 2017 Swig Labs Inc. All Rights Reserved.</small></p>
 	  </div>
