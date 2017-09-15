@@ -11,6 +11,7 @@
 	  	<a href="http://www.techstars.com" target="_blank"><img src="../assets/techstars.png" class="brand-logo" /></a>
 	  	<a href="https://drinkeasy.co" target="_blank"><img src="../assets/drinkeasy.png" class="brand-logo" /></a>
 	  	<a href="http://www.jashanmalgroup.com" target="_blank"><img src="../assets/jashanmal.png" class="brand-logo" /></a>
+	  	<a href="https://www.textshopornot.com" target="_blank"><img src="../assets/toshopornot.png" class="brand-logo" /></a>
 	  </div>
 	  <div class="footer">
 	    <p><small>© 2017 Swig Labs Inc. All Rights Reserved</small></p>
@@ -38,9 +39,9 @@ export default {
 	margin: 0px 20px;
 }
 .logo-section {
-	height: 230px;
+	padding-top: 180px;
 }
 .logo-section img {
-	margin-top: 180px;
+	margin: 20px;
 }
 </style>
