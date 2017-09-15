@@ -75,19 +75,23 @@ small {
 }
 body {
   margin: 0px;
-  margin-bottom: 40px; /* match .footer height */
+}
+.nav {
+  margin: 30px 0px 100px 0px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
 }
 .footer {
-  position: absolute;
   text-align: center;
   bottom: 0;
-  height: 40px; /* match body margin */
   background-color: #FFF;
   width: 100%;
 }
 .footer p {
   margin: 0px;
   padding: 0px;
-  line-height: 40px;
+  line-height: 80px;
 }
 </style>
