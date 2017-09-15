@@ -19,10 +19,6 @@ export default {
   font-family: 'Colfax-Medium';
   src: url('assets/Colfax-Medium.ttf') format('truetype');
 }
-@font-face {
-  font-family: 'Colfax-Bold';
-  src: url('assets/Colfax-Bold.ttf') format('truetype');
-}
 
 #app {
   font-family: 'Colfax-Regular', sans-serif;
@@ -34,18 +30,21 @@ h1 {
   line-height: 80px;
   margin: 0px;
   font-weight: normal;
+  color: #333;
 }
 h2 {
   font-size: 48px;
   line-height: 56px;
   margin-bottom: 32px;
   font-weight: normal;
+  color: #333;
 }
 h3 {
   font-size: 32px;
   line-height: 40px;
   margin-bottom: 32px;
   font-weight: normal;
+  color: #333;
 }
 h4 {
   font-size: 24px;
@@ -76,12 +75,23 @@ small {
 body {
   margin: 0px;
 }
+hr {
+  border: solid 1px #CCC;
+  border-width: 0px 0px 1px 0px;
+  width: 100%;
+}
 .nav {
-  margin: 30px 0px 100px 0px;
+  padding: 40px 0px 40px 0px;
 }
 .logo {
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
+}
+.text-logo {
+  font-size: 24px;
+  line-height: 26px;
+  margin: 0px;
+  color: #333;
 }
 .footer {
   text-align: center;
