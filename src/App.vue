@@ -81,11 +81,16 @@ hr {
   width: 100%;
 }
 .nav {
-  padding: 40px 0px 40px 0px;
+  padding: 40px 0px 80px 0px;
+  width: 100%;
+  text-align: center;
 }
 .logo {
   width: 60px;
   height: 60px;
+}
+.mockup {
+  width: 80%;
 }
 .text-logo {
   font-size: 24px;
