@@ -28,28 +28,28 @@ h1 {
   font-family: 'Colfax-Medium', sans-serif;
   font-size: 72px;
   line-height: 80px;
-  margin: 0px;
+  margin: 10px 10px;
   font-weight: normal;
   color: #333;
 }
 h2 {
   font-size: 48px;
   line-height: 56px;
-  margin-bottom: 32px;
+  margin: 30px 10px 50px 10px;
   font-weight: normal;
   color: #333;
 }
 h3 {
   font-size: 32px;
   line-height: 40px;
-  margin-bottom: 32px;
+  margin: 50px 10px 10px 10px;
   font-weight: normal;
   color: #333;
 }
 h4 {
   font-size: 24px;
   line-height: 32px;
-  margin-bottom: 32px;
+  margin: 30px 10px;
   font-weight: normal;
 }
 p {
@@ -88,9 +88,6 @@ hr {
 .logo {
   width: 60px;
   height: 60px;
-}
-.mockup {
-  width: 80%;
 }
 .text-logo {
   font-size: 24px;
