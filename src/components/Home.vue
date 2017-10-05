@@ -7,7 +7,6 @@
 	  <div class="section">
 	    <h1>Text Your Customers.<br />Sell More Stuff.</h1>
 	    <h4>Launch your own AI powered shopping assistant today.</h4>
-	    <p><a href="mailto:hi@gosmalltalk.com">hi@gosmalltalk.com</a></p>
 	  </div>
 	  <div class="section brand-logos">
 	  	<!-- <hr /> -->
@@ -27,10 +26,9 @@
 	  	<img src="../assets/screenshot-3.png" class="mockup" />
 	  </div>
 	  <div class="section">
-
+	  	<p><a href="mailto:hi@gosmalltalk.com">hi@gosmalltalk.com</a></p>
 	  </div>
 	  <div class="section">
-
 	  </div>
 	  <div class="footer">
 	    <p><small>© 2017 Swig Labs Inc. All Rights Reserved</small></p>
