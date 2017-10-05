@@ -3,7 +3,7 @@
 ```
 heroku login
 git remote add heroku https://git.heroku.com/smalltalk-site.git
-npm build
+yarn build
 git add .
 git commit -am "<msg>"
 git push
