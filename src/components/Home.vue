@@ -26,6 +26,7 @@
 	  	<img src="../assets/screenshot-3.png" class="mockup" />
 	  </div>
 	  <div class="section">
+	  	<h4>Let's talk, it’s kind of what we do.</h4>
 	  	<p><a href="mailto:hi@gosmalltalk.com">hi@gosmalltalk.com</a></p>
 	  </div>
 	  <div class="section">
