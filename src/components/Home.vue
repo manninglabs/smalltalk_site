@@ -7,6 +7,7 @@
 	  <div class="section">
 	    <h1>Text Your Customers.<br />Sell More Stuff.</h1>
 	    <h4>Launch your own AI powered shopping assistant today.</h4>
+	    <a href="https://smalltalk.typeform.com/to/hhsR6m" class="cta-button">Get Started for Free</a>
 	  </div>
 	  <div class="section brand-logos">
 	  	<!-- <hr /> -->
@@ -44,6 +45,18 @@ export default {
 </script>
 
 <style scoped>
+.cta-button {
+	background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 5px;
+}
 .section, .alt-section {
 	width: 100%;
 	text-align: center;
